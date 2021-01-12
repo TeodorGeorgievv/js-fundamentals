@@ -1,4 +1,4 @@
-function OddSum(input) {
+function oddSum(input) {
 
     let n = Number(input);
     let sum = 0;
@@ -15,4 +15,4 @@ function OddSum(input) {
     }
 }
 
-OddSum(5)
+oddSum(5)
