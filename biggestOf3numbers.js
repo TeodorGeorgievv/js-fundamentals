@@ -8,4 +8,4 @@ function biggestOfThreeNums(num1, num2, num3) {
     }
 }
 
-biggestOfThreeNums(-2, 7,3)
+biggestOfThreeNums(-2, 7, 3)
